@@ -1,3 +1,7 @@
 {
-  "item.olezikmod.olezik_coin": "Олежик"
+  "item.olezikmod.olezik_1dollar": "Один Олежикодоллар",
+  "item.olezikmod.olezik_5dollar": "Пять Олежикодолларов",
+  "item.olezikmod.olezik_10dollar": "Десять Олежикодолларов",
+  "item.olezikmod.olezik_50dollar": "Пятдесят Олежикодолларов",
+  "item.olezikmod.olezik_100dollar": "Сто Олежикодолларов"
 }

@@ -9,7 +9,15 @@ import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
 public class ModItems {
-    public static final Item OLEZIK_COIN = registerItem("olezik_coin",
+    public static final Item OLEZIK_1DOLLAR = registerItem("olezik_1dollar",
+            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+    public static final Item OLEZIK_5DOLLAR = registerItem("olezik_5dollar",
+            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+    public static final Item OLEZIK_10DOLLAR = registerItem("olezik_10dollar",
+            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+    public static final Item OLEZIK_50DOLLAR = registerItem("olezik_50dollar",
+            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+    public static final Item OLEZIK_100DOLLAR = registerItem("olezik_100dollar",
             new Item(new FabricItemSettings().group(ItemGroup.MISC)));
 
 

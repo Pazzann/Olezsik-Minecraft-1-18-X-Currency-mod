@@ -1,3 +1,7 @@
 {
-  "item.olezikmod.olezik_coin": "Olezik Coin"
+  "item.olezikmod.olezik_1dollar": "One OlezikDollar",
+  "item.olezikmod.olezik_5dollar": "Five OlezikDollars",
+  "item.olezikmod.olezik_10dollar": "Ten OlezikDollars",
+  "item.olezikmod.olezik_50dollar": "Fifty OlezikDollars",
+  "item.olezikmod.olezik_100dollar": "One Hundred OlezikDollars"
 }
