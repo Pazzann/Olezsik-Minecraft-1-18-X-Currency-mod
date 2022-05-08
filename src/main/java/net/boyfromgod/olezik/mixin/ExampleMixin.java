@@ -1,7 +1,6 @@
 package net.boyfromgod.olezik.mixin;
 
 import net.boyfromgod.olezik.OlezikMod;
-
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
