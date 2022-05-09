@@ -1,7 +1,9 @@
 {
-  "item.olezikmod.olezik_1dollar": "One OlezikDollar",
-  "item.olezikmod.olezik_5dollar": "Five OlezikDollars",
-  "item.olezikmod.olezik_10dollar": "Ten OlezikDollars",
-  "item.olezikmod.olezik_50dollar": "Fifty OlezikDollars",
-  "item.olezikmod.olezik_100dollar": "One Hundred OlezikDollars"
+  "item.olezikmod.olezik_1": "One Olezik",
+  "item.olezikmod.olezik_5": "Five Oleziks",
+  "item.olezikmod.olezik_10": "Ten Oleziks",
+  "item.olezikmod.olezik_50": "Fifty Oleziks",
+  "item.olezikmod.olezik_100": "One Hundred Oleziks",
+
+  "itemGroup.olezikmod.olezikmodgroup": "Olezik Mod"
 }

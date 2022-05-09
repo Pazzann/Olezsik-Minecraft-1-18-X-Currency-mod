@@ -3,22 +3,21 @@ package net.boyfromgod.olezik.item;
 import net.boyfromgod.olezik.OlezikMod;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.item.Item;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.util.Identifier;
 
 import net.minecraft.util.registry.Registry;
 
 public class ModItems {
-    public static final Item OLEZIK_1DOLLAR = registerItem("olezik_1dollar",
-            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
-    public static final Item OLEZIK_5DOLLAR = registerItem("olezik_5dollar",
-            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
-    public static final Item OLEZIK_10DOLLAR = registerItem("olezik_10dollar",
-            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
-    public static final Item OLEZIK_50DOLLAR = registerItem("olezik_50dollar",
-            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
-    public static final Item OLEZIK_100DOLLAR = registerItem("olezik_100dollar",
-            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+    public static final Item OLEZIK_1 = registerItem("olezik_1",
+            new Item(new FabricItemSettings().group(ModItemGroup.OLEZIKMOD)));
+    public static final Item OLEZIK_5 = registerItem("olezik_5",
+            new Item(new FabricItemSettings().group(ModItemGroup.OLEZIKMOD)));
+    public static final Item OLEZIK_10 = registerItem("olezik_10",
+            new Item(new FabricItemSettings().group(ModItemGroup.OLEZIKMOD)));
+    public static final Item OLEZIK_50 = registerItem("olezik_50",
+            new Item(new FabricItemSettings().group(ModItemGroup.OLEZIKMOD)));
+    public static final Item OLEZIK_100 = registerItem("olezik_100",
+            new Item(new FabricItemSettings().group(ModItemGroup.OLEZIKMOD)));
 
 
 

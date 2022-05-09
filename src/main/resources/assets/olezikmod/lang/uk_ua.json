@@ -1,7 +1,9 @@
 {
-  "item.olezikmod.olezik_1dollar": "Один Олежикодоллар",
-  "item.olezikmod.olezik_5dollar": "П'ять Олежикодолларів",
-  "item.olezikmod.olezik_10dollar": "Десять Олежикодолларів",
-  "item.olezikmod.olezik_50dollar": "П'ятдесят Олежикодолларів",
-  "item.olezikmod.olezik_100dollar": "Сто Олежикодолларів"
+  "item.olezikmod.olezik_1": "Один Олежик",
+  "item.olezikmod.olezik_5": "П'ять Олежиків",
+  "item.olezikmod.olezik_10": "Десять Олежиків",
+  "item.olezikmod.olezik_50": "П'ятдесят Олежиків",
+  "item.olezikmod.olezik_100": "Сто Олежиків",
+
+  "itemGroup.olezikmod.olezikmodgroup": "Мод на Олежикі"
 }

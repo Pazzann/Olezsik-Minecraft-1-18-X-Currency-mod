@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "olezikmod:item/olezik_10dollar"
+    "layer0": "olezikmod:item/olezik_10"
   }
 }
