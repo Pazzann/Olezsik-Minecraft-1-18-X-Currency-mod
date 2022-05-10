@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "olezikmod:olezik_10"
+    },
+    {
+      "item": "olezikmod:olezik_10"
+    },
+    {
+      "item": "olezikmod:olezik_10"
+    },
+    {
+      "item": "olezikmod:olezik_10"
+    },
+    {
+      "item": "olezikmod:olezik_10"
+    }
+  ],
+  "result": {
+    "item": "olezikmod:olezik_50"
+  }
+}
